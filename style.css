@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+
+audio #Earth {
+    position:absolute;
+    top: 250px;
+    right: 850px;
+}
+
+
